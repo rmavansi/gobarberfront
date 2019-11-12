@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "babelUrl": "src",
+    "paths": {
+      "~*": ["*"]
+    }
+  }
+}
